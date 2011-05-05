@@ -1,0 +1,11 @@
+{
+  "name"          : "color",
+  "description"   : "A library for color manipulation",
+  "url"           : "http://www.github.com/kmdavis/color",
+  "keywords"      : ["util", "functional", "server", "client", "browser", "graphics", "color", "canvas", "rgb", "hsl", "lab", "cmyk"],
+  "author"        : "Kevan Davis <kdavis@gilt.com>",
+  "contributors"  : [],
+  "lib"           : ".",
+  "main"          : "color.js",
+  "version"       : "0.0.1"
+}
